@@ -6,7 +6,7 @@
 - 📫 How to reach me: https://sostenesdev.com ;
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...  
+Estou a ser full-stack...  
 <div style="display: inline_block">
   <img align="center" alt="icon-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="icon-Ts" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
