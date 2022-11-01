@@ -16,7 +16,7 @@ Linguagens in use and learning...
 Softwares and plataform in use...
  <div style="display: inline_block">
   
-  <img align="right" alt="sostim-gif" height="170" style="border-radius:50px;" src="https://media.giphy.com/media/cNiUVDlF5uSAWHmo2u/giphy.gif?width=700&height=600"> &nbsp;
+  <img align="right" alt="sostim-gif" height="170" style="border-radius:50px;" src="https://media.giphy.com/media/cNiUVDlF5uSAWHmo2u/giphy.gif"> &nbsp;
   <img align="center" alt="icon-Word" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /> &nbsp; <!--Wordpress-->
   <img align="center" alt="icon-canva" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />  &nbsp;<!--Canva-->
   <img align="center" alt="icon-Ae" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg"> <!--AE-->
