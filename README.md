@@ -2,7 +2,7 @@
 
 - 💼 I’m currently working on Microlins and front-end for 4 companies
 - 📚 I’m currently learning Developer in front-end and back-end (Instituto Federal do Espiríto Santo - Campus Cachoeiro de Itapemirim); Computer support and maintenance (Instituto Federal do Espiríto Santo - Campus Colatina)
-- 🔗 How to reach me: https://sostenesdev.com ;
+- 🔗 How to reach me: https://yerusdev.com ;
 
 ## 🚀 About me
 Linguagens in use and learning...  
