@@ -14,7 +14,8 @@ Linguagens in use.
   <img align="center" alt="icon-git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> &nbsp;
   <img align="center" alt="icon-php" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> &nbsp;
 </div>
- &nbsp;
+<br>
+
 Softwares in use.
 <div style="display: inline_block">
   <img align="center" alt="icon-slack" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"> &nbsp;
