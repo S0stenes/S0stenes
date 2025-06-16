@@ -1,7 +1,6 @@
 # 👋🏾 Hi there
 
 - 📚 I’m Developer in front-end and back-end (Instituto Federal do Espiríto Santo - Campus Cachoeiro de Itapemirim); Computer support and maintenance (Instituto Federal do Espiríto Santo - Campus Colatina)
-- 🔗 My company: https://yerusdev.com ;
 
 ## 🚀 About me
 Linguagens in use. 
